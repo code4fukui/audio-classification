@@ -1,0 +1,524 @@
+﻿yammnet_label,yammnet_label_ja,ja,ja_by_translator
+Speech,話し声,話し声,スピーチ
+"Child speech, kid speaking",子供の話し声,子供の話し声,子供のスピーチ、子供が話します
+Conversation,会話,,会話
+"Narration, monologue",ナレーション、独白,,ナレーション、独白
+Babbling,せせらぎ,,せせらぎ
+Speech synthesizer,音声シンセサイザー,,音声シンセサイザー
+Shout,叫び,叫び,叫ぶ
+Bellow,怒鳴り声,怒鳴り声,怒鳴ります
+Whoop,雄叫び,雄叫び,whoop
+Yell,大声で叫ぶ,大声で叫ぶ,エール
+Children shouting,叫ぶ子供たち,,叫ぶ子供たち
+Screaming,悲鳴,悲鳴,叫ぶ
+Whispering,ささやき声,ささやき声,ささやき
+Laughter,笑い声,笑い声,笑い
+Baby laughter,赤ちゃんの笑い声,赤ちゃんの笑い声,赤ちゃんの笑い
+Giggle,クスクス笑い,クスクス笑い,笑い
+Snicker,鼻で笑う,鼻で笑う,スニッカー
+Belly laugh,爆笑,爆笑,腹は笑います
+"Chuckle, chortle",嬉しそうな笑い,嬉しそうな笑い,笑い、チョートル
+"Crying, sobbing",すすり泣き,すすり泣き,泣いて、すすり泣く
+"Baby cry, infant cry",赤ちゃんの泣き声、幼児の泣き声,,赤ちゃんの泣き声、幼児の泣き声
+Whimper,ささやき,ささやき,ささやきます
+"Wail, moan",嘆き、うめき声,,嘆き、うめき声
+Sigh,はぁ,,はぁ
+Singing,歌い声,歌い声,歌う
+Choir,合唱団,,合唱団
+Yodeling,ヨーデル,ヨーデル,ヨーデリング
+Chant,聖歌,,聖歌
+Mantra,マントラ（ヒンデュー教など）,マントラ（ヒンデュー教など）,マントラ
+Child singing,子供の歌,,子供の歌
+Synthetic singing,ボカロ,ボカロ,合成歌
+Rapping,ラップ,,ラップ
+Humming,ハミング,,ハミング
+Groan,うめき声,,うめき声
+Grunt,うなり声,,うなり声
+Whistling,口笛,口笛,口笛を吹く
+Breathing,呼吸,,呼吸
+Wheeze,苦しそうな息,苦しそうな息,喘鳴
+Snoring,いびき,,いびき
+Gasp,あえぎ,,あえぎ
+Pant,荒い息,荒い息,パンツ
+Snort,鼻を鳴らします,,鼻を鳴らします
+Cough,咳,,咳
+Throat clearing,咳払い,咳払い,喉の清算
+Sneeze,くしゃみ,,くしゃみ
+Sniff,嗅ぐ,嗅ぐ,スニッフ
+Run,走る,,走る
+Shuffle,足を引きずる,足を引きずる,シャッフル
+"Walk, footsteps",歩く、足跡,,歩く、足跡
+"Chewing, mastication",噛む、咀嚼,噛む、咀嚼,噛む、咀astic
+Biting,噛む,,噛む
+Gargling,うがい,,うがい
+Stomach rumble,胃の鳴き声,,胃の鳴き声
+"Burping, eructation",げっぷ、おくび,げっぷ、おくび,げっぷ、駆け出し
+Hiccup,しゃっくり,,しゃっくり
+Fart,おなら,,おなら
+Hands,手,,手
+Finger snapping,指パッチン,指パッチン,フィンガースナップ
+Clapping,手を叩く,手を叩く,拍手
+"Heart sounds, heartbeat",心音、ハートビート,,心音、ハートビート
+Heart murmur,心雑音,,心雑音
+Cheering,応援,,応援
+Applause,拍手,,拍手
+Chatter,おしゃべり,,おしゃべり
+Crowd,群衆,,群衆
+"Hubbub, speech noise, speech babble",騒音,騒音,Hubbub、Speech Noise、SpeechBabble
+Children playing,遊んでいる子供たち,,遊んでいる子供たち
+Animal,動物,,動物
+"Domestic animals, pets",家畜、ペット,,家畜、ペット
+Dog,犬,,犬
+Bark,吠える,,吠える
+Yip,うん,,うん
+Howl,遠吠え,,遠吠え
+Bow-wow,ワンワン,ワンワン,弓のwow
+Growling,うなり声,,うなり声
+Whimper (dog),ささやき（犬）,,ささやき（犬）
+Cat,猫,,猫
+Purr,猫の喉の音,猫の喉の音,purr
+Meow,ニャー,,ニャー
+Hiss,シー,シー,ヒス
+Caterwaul,ギャーギャー,ギャーギャー,Caterwaul
+"Livestock, farm animals, working animals",家畜、家畜、働く動物,,家畜、家畜、働く動物
+Horse,馬,,馬
+Clip-clop,パカパカ,パカパカ,クリップクロップ
+"Neigh, whinny",ヒヒーン,ヒヒーン,隣人、泣き言
+"Cattle, bovinae",牛、ウシ科,牛、ウシ科,牛、ボビナエ
+Moo,牛の鳴き声,牛の鳴き声,ムー
+Cowbell,牛の鈴,牛の鈴,カウベル
+Pig,豚,,豚
+Oink,豚の鳴き声,豚の鳴き声,oink
+Goat,ヤギ,,ヤギ
+Bleat,メー,メー,ブリート
+Sheep,羊,,羊
+Fowl,家禽,,家禽
+"Chicken, rooster",鶏肉、雄鶏,,鶏肉、雄鶏
+Cluck,噛みました,,噛みました
+"Crowing, cock-a-doodle-doo",鳴き声、コケコッコー,鳴き声、コケコッコー,鳴き声、コック・ア・ドゥードル・ドゥー
+Turkey,七面鳥,,七面鳥
+Gobble,七面鳥の鳴き声,七面鳥の鳴き声,ゴブル
+Duck,アヒル,,アヒル
+Quack,アヒルの鳴き声,アヒルの鳴き声,Quack
+Goose,ガチョウ,,ガチョウ
+Honk,ホンク,,ホンク
+Wild animals,野生動物,,野生動物
+"Roaring cats (lions, tigers)",ライオン、トラ,ライオン、トラ,Roaring Cats（ライオン、トラ）
+Roar,咆哮,咆哮,ro音
+Bird,鳥,,鳥
+"Bird vocalization, bird call, bird song",鳥の発声、鳥の呼び出し、鳥の歌,,鳥の発声、鳥の呼び出し、鳥の歌
+"Chirp, tweet",チッチッと鳴く,チッチッと鳴く,チャープ、ツイート
+Squawk,ガーガー鳴く,ガーガー鳴く,スクワーク
+"Pigeon, dove",鳩,鳩,鳩、鳩
+Coo,鳩の鳴き声,鳩の鳴き声,COO
+Crow,カラス,,カラス
+Caw,カラスの鳴き声,カラスの鳴き声,CAW
+Owl,フクロウ,,フクロウ
+Hoot,フクロウの鳴き声,フクロウの鳴き声,フート
+"Bird flight, flapping wings",鳥の飛行、羽ばたき翼,,鳥の飛行、羽ばたき翼
+"Canidae, dogs, wolves",カニダエ、犬、オオカミ,,カニダエ、犬、オオカミ
+"Rodents, rats, mice",げっ歯類、ネズミ、マウス,,げっ歯類、ネズミ、マウス
+Mouse,ねずみ,,ねずみ
+Patter,パタパタ走る音,パタパタ走る音,パターン
+Insect,昆虫,,昆虫
+Cricket,コオロギ,コオロギ,クリケット
+Mosquito,蚊,,蚊
+"Fly, housefly",蝿,蝿,フライ、ハウスフライ
+Buzz,ブンブン,ブンブン,バズ
+"Bee, wasp, etc.",蜂、スズメバチなど,,蜂、スズメバチなど
+Frog,蛙,,蛙
+Croak,蛙の鳴き声,蛙の鳴き声,クローク
+Snake,蛇,,蛇
+Rattle,ガラガラ,,ガラガラ
+Whale vocalization,クジラの発声,,クジラの発声
+Music,音楽,,音楽
+Musical instrument,楽器,,楽器
+Plucked string instrument,引き抜かれた弦楽器,,引き抜かれた弦楽器
+Guitar,ギター,,ギター
+Electric guitar,エレキギター,,エレキギター
+Bass guitar,ベースギター,,ベースギター
+Acoustic guitar,アコースティックギター,,アコースティックギター
+"Steel guitar, slide guitar",スチールギター、スライドギター,,スチールギター、スライドギター
+Tapping (guitar technique),タッピング（ギターテクニック）,,タッピング（ギターテクニック）
+Strum,ストラム,,ストラム
+Banjo,バンジョー,,バンジョー
+Sitar,シタール,,シタール
+Mandolin,マンドリン,,マンドリン
+Zither,ツィター（オーストラリアの弦楽器）,ツィター（オーストラリアの弦楽器）,zither
+Ukulele,ウクレレ,,ウクレレ
+Keyboard (musical),キーボード（ミュージカル）,,キーボード（ミュージカル）
+Piano,ピアノ,,ピアノ
+Electric piano,エレクトリックピアノ,,エレクトリックピアノ
+Organ,器官,,器官
+Electronic organ,電子器官,,電子器官
+Hammond organ,ハモンドオルガン,,ハモンドオルガン
+Synthesizer,シンセサイザー,,シンセサイザー
+Sampler,サンプラー,,サンプラー
+Harpsichord,ハープシコード,,ハープシコード
+Percussion,パーカッション,,パーカッション
+Drum kit,ドラムキット,,ドラムキット
+Drum machine,ドラムマシン,,ドラムマシン
+Drum,ドラム,,ドラム
+Snare drum,スネアドラム,,スネアドラム
+Rimshot,リムショット,,リムショット
+Drum roll,ドラムロール,,ドラムロール
+Bass drum,ベースドラム,,ベースドラム
+Timpani,ティンパニー,,ティンパニー
+Tabla,タブラ,,タブラ
+Cymbal,シンバル,,シンバル
+Hi-hat,ハイハット,,ハイハット
+Wood block,木製ブロック,,木製ブロック
+Tambourine,タンバリン,,タンバリン
+Rattle (instrument),ガラガラ（楽器）,,ガラガラ（楽器）
+Maraca,マラカス,,マラカス
+Gong,ゴング,,ゴング
+Tubular bells,管状の鐘,,管状の鐘
+Mallet percussion,マレットパーカッション,,マレットパーカッション
+"Marimba, xylophone",マリンバ、キシロフォン,,マリンバ、キシロフォン
+Glockenspiel,鉄琴,鉄琴,Glockenspiel
+Vibraphone,ビブラフォン,,ビブラフォン
+Steelpan,スチールパン,,スチールパン
+Orchestra,オーケストラ,,オーケストラ
+Brass instrument,金管楽器,,金管楽器
+French horn,フレンチホルン,,フレンチホルン
+Trumpet,トランペット,,トランペット
+Trombone,トロンボーン,,トロンボーン
+Bowed string instrument,弓で弾く弦楽器,弓で弾く弦楽器,お辞儀の弦楽器
+String section,弦楽器のセクション,弦楽器のセクション,文字列セクション
+"Violin, fiddle",バイオリン、フィドル,,バイオリン、フィドル
+Pizzicato,ピチカート,,ピチカート
+Cello,チェロ,,チェロ
+Double bass,ダブルベース,,ダブルベース
+"Wind instrument, woodwind instrument",風の楽器、木管楽器,,風の楽器、木管楽器
+Flute,フルート,,フルート
+Saxophone,サックス,,サックス
+Clarinet,クラリネット,,クラリネット
+Harp,ハープ,,ハープ
+Bell,ベル,,ベル
+Church bell,教会の鐘,,教会の鐘
+Jingle bell,ジングルベル,,ジングルベル
+Bicycle bell,自転車のベル,,自転車のベル
+Tuning fork,音叉,,音叉
+Chime,チャイム,,チャイム
+Wind chime,風鈴,,風鈴
+Change ringing (campanology),リンギングを変更する（カンパノロジー）,,リンギングを変更する（カンパノロジー）
+Harmonica,ハーモニカ,,ハーモニカ
+Accordion,アコーディオン,,アコーディオン
+Bagpipes,バグパイプ,,バグパイプ
+Didgeridoo,"
+ディジュリドゥ（アボリジニの金管楽器）","
+ディジュリドゥ（アボリジニの金管楽器）",didgeridoo
+Shofar,ショファル（角でできた楽器）,ショファル（角でできた楽器）,Shofar
+Theremin,テルミン,テルミン,テミン
+Singing bowl,歌うボウル,,歌うボウル
+Scratching (performance technique),スクラッチ（パフォーマンステクニック）,,スクラッチ（パフォーマンステクニック）
+Pop music,ポップ・ミュージック,,ポップ・ミュージック
+Hip hop music,ヒップホップ音楽,,ヒップホップ音楽
+Beatboxing,ビートボックス,,ビートボックス
+Rock music,ロックミュージック,,ロックミュージック
+Heavy metal,ヘヴィメタル,,ヘヴィメタル
+Punk rock,パンク,,パンク
+Grunge,グランジ,,グランジ
+Progressive rock,プログレッシブロック,,プログレッシブロック
+Rock and roll,ロックンロール,,ロックンロール
+Psychedelic rock,サイケデリックロック,,サイケデリックロック
+Rhythm and blues,リズムアンドブルース,,リズムアンドブルース
+Soul music,ソウルミュージック,,ソウルミュージック
+Reggae,レゲエ,,レゲエ
+Country,国,,国
+Swing music,スイング音楽,,スイング音楽
+Bluegrass,ブルーグラス,,ブルーグラス
+Funk,ファンク,,ファンク
+Folk music,民族音楽,,民族音楽
+Middle Eastern music,中東の音楽,,中東の音楽
+Jazz,ジャズ,,ジャズ
+Disco,ディスコ,,ディスコ
+Classical music,クラッシック,,クラッシック
+Opera,オペラ,,オペラ
+Electronic music,電子音楽,,電子音楽
+House music,ハウスミュージック,,ハウスミュージック
+Techno,テクノ,,テクノ
+Dubstep,ダブステップ,,ダブステップ
+Drum and bass,ドラムとベース,,ドラムとベース
+Electronica,エレクトロニカ,,エレクトロニカ
+Electronic dance music,エレクトロニックダンスミュージック,,エレクトロニックダンスミュージック
+Ambient music,アンビエントミュージック,,アンビエントミュージック
+Trance music,トランスミュージック,,トランスミュージック
+Music of Latin America,ラテンアメリカの音楽,,ラテンアメリカの音楽
+Salsa music,サルサ音楽,,サルサ音楽
+Flamenco,フラメンコ,,フラメンコ
+Blues,ブルース,,ブルース
+Music for children,子供のための音楽,,子供のための音楽
+New-age music,新時代の音楽,,新時代の音楽
+Vocal music,声楽,,声楽
+A capella,アカペラ,,アカペラ
+Music of Africa,アフリカの音楽,,アフリカの音楽
+Afrobeat,アフロビート,アフロビート,afrobeat
+Christian music,キリスト教音楽,,キリスト教音楽
+Gospel music,ゴスペル音楽,,ゴスペル音楽
+Music of Asia,アジアの音楽,,アジアの音楽
+Carnatic music,カルナティック音楽,,カルナティック音楽
+Music of Bollywood,ボリウッドの音楽,,ボリウッドの音楽
+Ska,スカ,,スカ
+Traditional music,伝統音楽,,伝統音楽
+Independent music,独立した音楽,,独立した音楽
+Song,歌,,歌
+Background music,バックグラウンドミュージック,,バックグラウンドミュージック
+Theme music,テーマ音楽,,テーマ音楽
+Jingle (music),ジングル（音楽）,,ジングル（音楽）
+Soundtrack music,サウンドトラック音楽,,サウンドトラック音楽
+Lullaby,子守唄,子守唄,子守lulaby
+Video game music,ビデオゲーム音楽,,ビデオゲーム音楽
+Christmas music,クリスマス音楽,,クリスマス音楽
+Dance music,ダンスミュージック,,ダンスミュージック
+Wedding music,結婚式の音楽,,結婚式の音楽
+Happy music,幸せな音楽,,幸せな音楽
+Sad music,悲しい音楽,,悲しい音楽
+Tender music,柔らかい音楽,,柔らかい音楽
+Exciting music,エキサイティングな音楽,,エキサイティングな音楽
+Angry music,怒っている音楽,,怒っている音楽
+Scary music,怖い音楽,,怖い音楽
+Wind,風,,風
+Rustling leaves,ガサガサした葉,,ガサガサした葉
+Wind noise (microphone),風ノイズ（マイク）,,風ノイズ（マイク）
+Thunderstorm,雷雨,,雷雨
+Thunder,雷,,雷
+Water,水,,水
+Rain,雨,,雨
+Raindrop,雨滴,,雨滴
+Rain on surface,表面の雨,,表面の雨
+Stream,ストリーム,,ストリーム
+Waterfall,滝,,滝
+Ocean,海,,海
+"Waves, surf",波、サーフィン,,波、サーフィン
+Steam,蒸気,,蒸気
+Gurgling,ゴロゴロ,,ゴロゴロ
+Fire,火,,火
+Crackle,クラックル,,クラックル
+Vehicle,車両,,車両
+"Boat, Water vehicle",ボート、水乗り,,ボート、水乗り
+"Sailboat, sailing ship",ヨット、帆船,,ヨット、帆船
+"Rowboat, canoe, kayak",手rowぎボート、カヌー、カヤック,,手rowぎボート、カヌー、カヤック
+"Motorboat, speedboat",モーターボート、スピードボート,,モーターボート、スピードボート
+Ship,船,,船
+Motor vehicle (road),自動車（道路）,,自動車（道路）
+Car,車,,車
+"Vehicle horn, car horn, honking",車両の角、車のホーン、鳴きます,,車両の角、車のホーン、鳴きます
+Toot,トゥート,,トゥート
+Car alarm,車のアラーム,,車のアラーム
+"Power windows, electric windows",パワーウィンドウ、電動窓,,パワーウィンドウ、電動窓
+Skidding,スキッド,,スキッド
+Tire squeal,タイヤの鳴き声,,タイヤの鳴き声
+Car passing by,通り過ぎる車,,通り過ぎる車
+"Race car, auto racing",レースカー、自動車レース,,レースカー、自動車レース
+Truck,トラック,,トラック
+Air brake,エアブレーキ,,エアブレーキ
+"Air horn, truck horn",エアホーン、トラックホーン,,エアホーン、トラックホーン
+Reversing beeps,ビープ音の逆,,ビープ音の逆
+"Ice cream truck, ice cream van",アイスクリームトラック、アイスクリームバン,,アイスクリームトラック、アイスクリームバン
+Bus,バス,,バス
+Emergency vehicle,緊急車両,,緊急車両
+Police car (siren),パトカー（サイレン）,,パトカー（サイレン）
+Ambulance (siren),救急車（サイレン）,,救急車（サイレン）
+"Fire engine, fire truck (siren)",消防車、消防車（サイレン）,,消防車、消防車（サイレン）
+Motorcycle,オートバイ,,オートバイ
+"Traffic noise, roadway noise",交通騒音、道路騒音,,交通騒音、道路騒音
+Rail transport,鉄道輸送,,鉄道輸送
+Train,電車,,電車
+Train whistle,ホイッスルを訓練します,,ホイッスルを訓練します
+Train horn,ホーンを訓練します,,ホーンを訓練します
+"Railroad car, train wagon",鉄道車両、電車ワゴン,,鉄道車両、電車ワゴン
+Train wheels squealing,列車の鳴き声を鳴らす,,列車の鳴き声を鳴らす
+"Subway, metro, underground",地下鉄、地下鉄、地下,,地下鉄、地下鉄、地下
+Aircraft,航空機,,航空機
+Aircraft engine,航空機エンジン,,航空機エンジン
+Jet engine,ジェットエンジン,,ジェットエンジン
+"Propeller, airscrew",プロペラ、エアスクリュー,,プロペラ、エアスクリュー
+Helicopter,ヘリコプター,,ヘリコプター
+"Fixed-wing aircraft, airplane",固定翼航空機、飛行機,,固定翼航空機、飛行機
+Bicycle,自転車,,自転車
+Skateboard,スケートボード,,スケートボード
+Engine,エンジン,,エンジン
+Light engine (high frequency),ライトエンジン（高周波）,,ライトエンジン（高周波）
+"Dental drill, dentist's drill",歯科用ドリル、歯科医のドリル,,歯科用ドリル、歯科医のドリル
+Lawn mower,芝刈り機,,芝刈り機
+Chainsaw,チェーンソー,,チェーンソー
+Medium engine (mid frequency),中程度のエンジン（周波数中期）,,中程度のエンジン（周波数中期）
+Heavy engine (low frequency),重いエンジン（低周波）,,重いエンジン（低周波）
+Engine knocking,エンジンノック,,エンジンノック
+Engine starting,エンジンの開始,,エンジンの開始
+Idling,アイドリング,,アイドリング
+"Accelerating, revving, vroom",加速、回転、ブルーン,加速、回転、ブルーン,加速、回転、vroom
+Door,ドア,,ドア
+Doorbell,ドアベル,,ドアベル
+Ding-dong,キンコン（鐘）,キンコン（鐘）,ディンドン
+Sliding door,引き戸,,引き戸
+Slam,強く打つ音,強く打つ音,スラム
+Knock,ノック,,ノック
+Tap,タップ音,タップ音,タップします
+Squeak,きしみ音,きしみ音,きしむ
+Cupboard open or close,食器棚の開閉音,食器棚の開閉音,カップボードを開閉します
+Drawer open or close,引き出しの開閉音,引き出しの開閉音,引き出しまたは閉じます
+"Dishes, pots, and pans",皿、鍋、フライパン,,皿、鍋、フライパン
+"Cutlery, silverware",カトラリー、銀器,,カトラリー、銀器
+Chopping (food),みじん切り,みじん切り,チョッピング（食べ物）
+Frying (food),揚げ物（食べ物）,,揚げ物（食べ物）
+Microwave oven,電子レンジ,電子レンジ,マイクロ波オーブン
+Blender,電気ミキサー,電気ミキサー,ブレンダー
+"Water tap, faucet",蛇口、蛇口,,蛇口、蛇口
+Sink (filling or washing),シンク（充填または洗浄）,,シンク（充填または洗浄）
+Bathtub (filling or washing),バスタブ（充填または洗浄）,,バスタブ（充填または洗浄）
+Hair dryer,ヘアドライヤー,,ヘアドライヤー
+Toilet flush,トイレの流す音,トイレの流す音,トイレフラッシュ
+Toothbrush,歯ブラシ,,歯ブラシ
+Electric toothbrush,電動歯ブラシ,,電動歯ブラシ
+Vacuum cleaner,掃除機,,掃除機
+Zipper (clothing),ジッパー（衣類）,,ジッパー（衣類）
+Keys jangling,鍵のジャラジャラ音,鍵のジャラジャラ音,キージャングリング
+Coin (dropping),コイン落下音,コイン落下音,コイン（ドロップ）
+Scissors,はさみ,,はさみ
+"Electric shaver, electric razor",電気シェーバー、電気かみそり,,電気シェーバー、電気かみそり
+Shuffling cards,トランプのシャッフル,トランプのシャッフル,カードをシャッフルします
+Typing,タイピング,,タイピング
+Typewriter,タイプライター,,タイプライター
+Computer keyboard,キーボード,,キーボード
+Writing,筆記音,筆記音,書き込み
+Alarm,警報,,警報
+Telephone,電話,,電話
+Telephone bell ringing,電話のベルの音,電話のベルの音,電話ベルリンギング
+Ringtone,着信音,,着信音
+"Telephone dialing, DTMF",電話ダイヤル、DTMF,,電話ダイヤル、DTMF
+Dial tone,ダイヤルトーン,,ダイヤルトーン
+Busy signal,電話中,,電話中
+Alarm clock,目覚まし時計,,目覚まし時計
+Siren,サイレン,,サイレン
+Civil defense siren,市民防衛サイレン,,市民防衛サイレン
+Buzzer,ブザー,,ブザー
+"Smoke detector, smoke alarm",煙探知器、煙警報器,,煙探知器、煙警報器
+Fire alarm,火災警報,,火災警報
+Foghorn,霧笛,霧笛,フォグホーン
+Whistle,ホイッスル,,ホイッスル
+Steam whistle,汽笛,汽笛,蒸気のwhi
+Mechanisms,機械音,機械音,メカニズム
+"Ratchet, pawl",つめ車,つめ車,ラチェット、ポール
+Clock,時計,,時計
+Tick,ティック,,ティック
+Tick-tock,チクタク,,チクタク
+Gears,ギア,,ギア
+Pulleys,プーリー,,プーリー
+Sewing machine,ミシン,,ミシン
+Mechanical fan,機械ファン,,機械ファン
+Air conditioning,エアコン,エアコン,空調
+Cash register,レジ,,レジ
+Printer,プリンター,,プリンター
+Camera,カメラ,,カメラ
+Single-lens reflex camera,一眼レフカメラ,一眼レフカメラ,シングルレンズ反射カメラ
+Tools,ツール,,ツール
+Hammer,ハンマー,,ハンマー
+Jackhammer,ジャックハンマー,,ジャックハンマー
+Sawing,のこぎり,,のこぎり
+Filing (rasp),ヤスリ,ヤスリ,ファイリング（RASP）
+Sanding,ヤスリ研磨,ヤスリ研磨,サンディング
+Power tool,有力な手法,,有力な手法
+Drill,ドリル,,ドリル
+Explosion,爆発,,爆発
+"Gunshot, gunfire",銃声、銃声,,銃声、銃声
+Machine gun,機関銃,,機関銃
+Fusillade,一斉射撃,一斉射撃,フジラード
+Artillery fire,大砲の火,,大砲の火
+Cap gun,おもちゃの銃,おもちゃの銃,キャップガン
+Fireworks,花火,,花火
+Firecracker,爆竹,,爆竹
+"Burst, pop",ポンッ,ポンッ,バースト、ポップ
+Eruption,噴火,,噴火
+Boom,ブーム,,ブーム
+Wood,木材,,木材
+Chop,チョップ,,チョップ
+Splinter,破片,,破片
+Crack,割れ目,,割れ目
+Glass,ガラス,,ガラス
+"Chink, clink",チンチン鳴る,チンチン鳴る,チンク、クリンク
+Shatter,粉砕,,粉砕
+Liquid,液体,,液体
+"Splash, splatter",バシャーン,バシャーン,スプラッシュ、スプラッタ
+Slosh,バチャバチャ,バチャバチャ,スロッシュ
+Squish,ビシャビシャ,ビシャビシャ,ビシャビシャ押しつぶす
+Drip,ポタン,ポタン,滴下
+Pour,注ぎ音,注ぎ音,注ぐ
+"Trickle, dribble",チョロチョロ,チョロチョロ,トリクル、ドリブル
+Gush,噴出,,噴出
+Fill (with liquid),充填（液体）,充填（液体）,充填（液体で）
+Spray,スプレー噴射,スプレー噴射,噴射
+Pump (liquid),ポンプ（液体）,,ポンプ（液体）
+Stir,かき混ぜ音,かき混ぜ音,かき混ぜる
+Boiling,沸騰,,沸騰
+Sonar,音波探知機,音波探知機,ソナー
+Arrow,矢,矢,矢印
+"Whoosh, swoosh, swish",しゅっ,しゅっ,Hoosh、Swoosh、Swish
+"Thump, thud",ドスン,ドスン,Thump、thud
+Thunk,ズシン,ズシン,サンク
+Electronic tuner,電子チューナー,,電子チューナー
+Effects unit,エフェクトユニット,,エフェクトユニット
+Chorus effect,コーラス効果,,コーラス効果
+Basketball bounce,バスケットボールが跳ねる音,バスケットボールが跳ねる音,バスケットボールバウンス
+Bang,強打,,強打
+"Slap, smack",スラップ、スマック,,スラップ、スマック
+"Whack, thwack",強打、ひどい,,強打、ひどい
+"Smash, crash",スマッシュ、クラッシュ,,スマッシュ、クラッシュ
+Breaking,破裂音,破裂音,速報
+Bouncing,バウンド音,バウンド音,バウンス
+Whip,鞭,鞭,ホイップ
+Flap,パタパタ,パタパタ,フラップ
+Scratch,ひっかく音,ひっかく音,傷
+Scrape,こする音,こする音,こすります
+Rub,すれる音,すれる音,こする
+Roll,転がる音,転がる音,ロール
+Crushing,粉砕音,粉砕音,粉砕
+"Crumpling, crinkling",くしゃくしゃ、しわ,,くしゃくしゃ、しわ
+Tearing,ちぎる音,ちぎる音,涙
+"Beep, bleep",ビープ音,ビープ音,ビープ音、ブリープ
+Ping,ビシッ,ビシッ,ping
+Ding,ガン,ガン,ディン
+Clang,カーン,カーン,クラン
+Squeal,キーッ,キーッ,鳴き声
+Creak,キーキー,キーキー,クリーク
+Rustle,カサカサ,カサカサ,ざわめきます
+Whir,ヒュー,ヒュー,whir
+Clatter,ガタガタ,,ガタガタ
+Sizzle,ジュージュー,ジュージュー,シズル
+Clicking,カチカチ,カチカチ,クリック
+Clickety-clack,ガタンゴトン,ガタンゴトン,クリックタイクラック
+Rumble,ゴロゴロ,ゴロゴロ,ランブル
+Plop,ポチャン,ポチャン,プロップ
+"Jingle, tinkle",チリンチリン,チリンチリン,ジングル、ティンクル
+Hum,ブーン,ブーン,ハム
+Zing,ヒュッ,ヒュッ,zing
+Boing,ボヨンボヨン,ボヨンボヨン,ボーイング
+Crunch,噛み砕く音,噛み砕く音,噛み砕く
+Silence,無音,無音,沈黙
+Sine wave,正弦波,,正弦波
+Harmonic,高調波,,高調波
+Chirp tone,チャープ音,チャープ音,チャープトーン
+Sound effect,効果音,効果音,サウンドエフェクト
+Pulse,脈,,脈
+"Inside, small room",内部、小さな部屋,,内部、小さな部屋
+"Inside, large room or hall",内部、大きな部屋またはホール,,内部、大きな部屋またはホール
+"Inside, public space",内部、公共スペース,,内部、公共スペース
+"Outside, urban or manmade",外、都市または人工,,外、都市または人工
+"Outside, rural or natural",外、田舎または自然,,外、田舎または自然
+Reverberation,残響,,残響
+Echo,エコー,,エコー
+Noise,ノイズ,,ノイズ
+Environmental noise,環境ノイズ,,環境ノイズ
+Static,テレビのノイズ,テレビのノイズ,静的
+Mains hum,ハムノイズ,ハムノイズ,メインハム
+Distortion,ひずみ音,ひずみ音,ねじれ
+Sidetone,側音,側音,サイドトーン
+Cacophony,不協和音,,不協和音
+White noise,白色雑音,,白色雑音
+Pink noise,ピンクノイズ,ピンクノイズ,ピンクのノイズ
+Throbbing,ドキドキ,,ドキドキ
+Vibration,振動,,振動
+Television,テレビ,,テレビ
+Radio,ラジオ,ラジオ,無線
+Field recording,フィールドレコーディング,フィールドレコーディング,フィールド記録
