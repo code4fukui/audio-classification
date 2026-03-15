@@ -1,5 +1,7 @@
 # Audio Classification
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 This project provides a web-based audio classification demo using the MediaPipe library.
 
 ## Demo
