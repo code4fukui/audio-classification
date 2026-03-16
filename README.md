@@ -4,9 +4,6 @@
 
 This project provides a web-based audio classification demo using the MediaPipe library.
 
-## Demo
-You can try the demo at https://code4fukui.github.io/audio-classification/
-
 ## Features
 - Real-time audio classification using the YAMNet model from MediaPipe
 - Classifies audio into various categories such as speech, laughter, crying, and more
@@ -24,4 +21,4 @@ This project requires a modern web browser that supports the WebAudio API.
 This project uses the YAMNet audio classification model provided by the MediaPipe library.
 
 ## License
-This project is licensed under the MIT License.
+MIT License — see [LICENSE](LICENSE).
